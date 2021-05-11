@@ -7,7 +7,7 @@ In this homework, we have performed time series analysis in the value of the Jap
 
 ## Files
 
-### Time Series Analysis (time_series_analysis.ipynb)
+### [Time Series Analysis](time_series_analysis.ipynb)
 
 In this Jupyter notebook we,
 
@@ -19,7 +19,7 @@ In this Jupyter notebook we,
 
 - created GARCH model to forecast the volatility of the exchange rates.
 
-### Linear Regression Analysis (regression_analyis.ipynb)
+### [Linear Regression Analysis](regression_analyis.ipynb)
 
 In this Jupyter notebook we created a linear regression model to predict current return price with the lagged return price.
 
